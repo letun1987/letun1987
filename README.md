@@ -5,6 +5,13 @@
 
 Изучаю Data analysis и Data science.
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/михаил-летуновский-74a056275/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/letun1987" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/?authuser=0" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  </p>
+
+
 <p align="center"><b>Hard skills</b>
   
 __________________________________________________________________________________________________________________________

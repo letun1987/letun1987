@@ -43,7 +43,8 @@ ________________________________________________________________________________
 1. [HackerRank - SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/ba4bdfdaf120)
 2. [Нетология - SQL и получение данных](https://github.com/letun1987/Certificates/blob/e3f62b756ee0a576cfdb656a86d6988b8029f7da/certificate%20SQL%20Netology.pdf) 
 __________________________________________________________________________________________________________________________
-
+Тинькофф Образование:
+1. [Анализ данных в индустрии](https://github.com/letun1987/Certificates/blob/b4bafce4efb0fa32ed385fa9324f8f1db9054fa3/Diploma.pdf)
 <!--
 **letun1987/letun1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -45,9 +45,16 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 Тинькофф Образование:
 1. [Анализ данных в индустрии](https://github.com/letun1987/Certificates/blob/b4bafce4efb0fa32ed385fa9324f8f1db9054fa3/Diploma.pdf)
+__________________________________________________________________________________________________________________________
+Сертификаты Python:
+1. [Нетология - Основы Python для анализа данных](https://netology.ru/backend/api/user/programs/24201/pdf_certificate)
+2. [Нетология - Библиотеки Python для анализа данных](https://netology.ru/backend/api/user/programs/24213/pdf_certificate)
+3. [Нетология - Статистика Python](https://netology.ru/backend/api/user/programs/29129/pdf_certificate)
+4. [Институт биоинформатики - Основы статистики](https://stepik.org/cert/2074317)
+
+
 <!--
 **letun1987/letun1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

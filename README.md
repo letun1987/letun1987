@@ -3,7 +3,7 @@
 Меня зовут Михаил.
 
 
-Изучаю Data analysis и Data science.
+Работаю аналитиком данных. Изучаю Data science и инвестиции.
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/михаил-летуновский-74a056275/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
